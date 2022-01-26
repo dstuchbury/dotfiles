@@ -1,0 +1,16 @@
+# Laravel aliases
+alias art="php artisan"
+alias lserve="php artisan serve"
+alias tinker="php artisan tinker"
+alias pu="vendor/bin/phpunit"
+alias pf="vendor/bin/phpunit --filter="
+alias com="composer"
+alias sail='sudo [ -f sail ] && bash sail || bash vendor/bin/sail'
+
+# Docker aliases
+alias d="sudo docker"
+alias dc="sudo docker-compose"
+alias dcu="sudo docker-compose up -d"
+alias dcd="sudo docker-compose down"
+alias dcub="sudo docker-compose up -d --build"
+

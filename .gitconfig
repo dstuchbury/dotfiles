@@ -1,0 +1,8 @@
+[user]
+	name = Dan Stuchbury
+	email = d.stuchbury@tshirtandsons.com
+[pager]
+	branch = false
+[core]
+	editor = vim
+	autocrlf = input
